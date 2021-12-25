@@ -45,6 +45,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ## Problems
 
-| ID | Problem | Official<br/>Solution | My Solution |
+| ID | Problem | Official<br/>Solution | MySQL |
 | --- | --- | :---: | :--: |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [solution](https://leetcode.com/problems/combine-two-tables/solution/) | [MySQL](0175-Combine-Two-Tables/) |
+| | | | |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [Link](1350-Students-With-Invalid-Departments/) |
+| | | | |

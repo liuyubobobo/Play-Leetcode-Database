@@ -1,4 +1,8 @@
+# NOT
+
 SELECT DISTINCT id, name 
-FROM Students 
+FROM Students
+ 
 WHERE department_id NOT IN 
+
 (SELECT id FROM Departments)
