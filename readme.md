@@ -10,11 +10,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 大家好，欢迎大家来到我的 **Leetcode 数据库题解**代码仓。在这个代码仓中。如果对代码仓有任何问题，欢迎联系我：）
 
-**个人网站**：[liuyubobobo.com](http://liuyubobobo.com) [废弃重整中...]
-
 **电子邮件**：[liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
-
-**微博**: [刘宇波bobo http://weibo.com/liuyubobobo](http://weibo.com/liuyubobobo)
 
 **知乎**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
 
@@ -24,6 +20,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ![QRCode](qrcode.png)
 
+**知识星球（免费）**
+
+![ZSXQ](zsxq.jpg)
+
+<br/>
 
 ## 其他相关代码仓
 
@@ -39,9 +40,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 * **Leetcode 算法题解代码仓**：[Play Leetcode](https://github.com/liuyubobobo/Play-Leetcode) （注：以C++实现为主）
 
-* **LeetCode Explore题解代码仓**：[Play Leetcode Explore](https://github.com/liuyubobobo/Play-Leetcode-Explore) （注：以C++实现为主）
-    * [Leetcode Explore](https://leetcode.com/explore/) 是 Leetcode 在2017年底上线的新模块，分门别类地整理了Leetcode上的问题。如果刷Leetcode一时不知从哪里下手，可以从Leetcode Explore为指引开始：）
-
+<br/>
 
 ## Problems
 
@@ -49,5 +48,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | --- | --- | :---: | :--: |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [solution](https://leetcode.com/problems/combine-two-tables/solution/) | [MySQL](0175-Combine-Two-Tables/) |
 | | | | |
-| 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [Link](1350-Students-With-Invalid-Departments/) |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [solution](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/) | [MySQL](0181-Employees-Earning-More-Than-Their-Managers/) |
+| | | | |
+| 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) |
 | | | | |

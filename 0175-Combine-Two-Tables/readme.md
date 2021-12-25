@@ -1,4 +1,4 @@
-# Using LEFT JOIN
+## Using LEFT JOIN
 
 SELECT firstName, lastName, city, state 
 
