@@ -49,6 +49,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [solution](https://leetcode.com/problems/combine-two-tables/solution/) | [MySQL](0175-Combine-Two-Tables/) |
 | | | | |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [solution](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/) | [MySQL](0181-Employees-Earning-More-Than-Their-Managers/) |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [solution](https://leetcode.com/problems/duplicate-emails/solution/) | [MySQL](0182-Duplicate-Emails/) |
 | | | | |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) |
 | | | | |
