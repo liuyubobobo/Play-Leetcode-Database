@@ -47,6 +47,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | ID | Problem | Official<br/>Solution | MySQL |
 | --- | --- | :---: | :--: |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [solution](https://leetcode.com/problems/combine-two-tables/solution/) | [MySQL](0175-Combine-Two-Tables/) |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [solution](https://leetcode.com/problems/second-highest-salary/solution/) | [MySQL](0176-Second-Highest-Salary/) |
 | | | | |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [solution](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/) | [MySQL](0181-Employees-Earning-More-Than-Their-Managers/) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [solution](https://leetcode.com/problems/duplicate-emails/solution/) | [MySQL](0182-Duplicate-Emails/) |
