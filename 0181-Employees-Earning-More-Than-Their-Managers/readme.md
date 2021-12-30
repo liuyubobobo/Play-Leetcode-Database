@@ -1,3 +1,9 @@
+```
+Source : https://leetcode.com/problems/employees-earning-more-than-their-managers/
+Author : liuyubobobo
+Time   : 2021-12-29
+```
+
 ## Using Nested Query
 
 ```MySQL

@@ -1,3 +1,9 @@
+```
+Source : https://leetcode.com/problems/second-highest-salary/
+Author : liuyubobobo
+Time   : 2021-12-29
+```
+
 ## Temporary Table
 
 ```MySQL

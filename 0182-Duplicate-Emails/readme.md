@@ -1,3 +1,9 @@
+```
+Source : https://leetcode.com/problems/duplicate-emails/
+Author : liuyubobobo
+Time   : 2021-12-29
+```
+
 ## Self Join
 
 ```MySQL

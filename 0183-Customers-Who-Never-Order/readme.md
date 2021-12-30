@@ -1,3 +1,9 @@
+```
+Source : https://leetcode.com/problems/customers-who-never-order/
+Author : liuyubobobo
+Time   : 2021-12-29
+```
+
 ## Nested Query
 
 ```MySQL

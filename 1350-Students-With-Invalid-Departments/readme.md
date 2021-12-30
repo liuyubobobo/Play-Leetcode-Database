@@ -1,3 +1,9 @@
+```
+Source : https://leetcode.com/problems/students-with-invalid-departments/
+Author : liuyubobobo
+Time   : 2021-12-29
+```
+
 ## Using Nested Query
 
 ```MySQL
@@ -21,3 +27,4 @@ ON Students.department_id = Departments.id
 
 WHERE Departments.name IS NULL;
 ```
+
