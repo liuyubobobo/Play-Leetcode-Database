@@ -57,6 +57,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [solution](https://leetcode.com/problems/big-countries/solution/) | [MySQL](0595-Big-Countries/) | |
 | | | | | |
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [solution](https://leetcode.com/problems/swap-salary/solution/) | [MySQL](0627-Swap-Salary/) | IF or CASE |
+| | | | | |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) | |
 | | | | | |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [无] | [MySQL](1757-Recyclable-and-Low-Fat-Products/) | |
