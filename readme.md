@@ -44,20 +44,22 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ## Problems
 
-| ID | Problem | Official<br/>Solution | MySQL |
-| --- | --- | :---: | :--: |
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [solution](https://leetcode.com/problems/combine-two-tables/solution/) | [MySQL](0175-Combine-Two-Tables/) |
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [solution](https://leetcode.com/problems/second-highest-salary/solution/) | [MySQL](0176-Second-Highest-Salary/) |
-| | | | |
-| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [solution](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/) | [MySQL](0181-Employees-Earning-More-Than-Their-Managers/) |
-| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [solution](https://leetcode.com/problems/duplicate-emails/solution/) | [MySQL](0182-Duplicate-Emails/) |
-| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [solution](https://leetcode.com/problems/customers-who-never-order/solution/) | [MySQL](0183-Customers-Who-Never-Order/) |
-| | | | |
-| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [solution](https://leetcode.com/problems/find-customer-referee/solution/) | [MySQL](0584-Find-Customer-Referee/) |
-| | | | |
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [solution](https://leetcode.com/problems/big-countries/solution/) | [MySQL](0595-Big-Countries/) |
-| | | | |
-| 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) |
-| | | | |
-| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [无] | [MySQL](1757-Recyclable-and-Low-Fat-Products/) |
-| | | | |
+| ID | Problem | Official<br/>Solution | MySQL | Comments |
+| --- | --- | :---: | :--: | :--- |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [solution](https://leetcode.com/problems/combine-two-tables/solution/) | [MySQL](0175-Combine-Two-Tables/) | |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [solution](https://leetcode.com/problems/second-highest-salary/solution/) | [MySQL](0176-Second-Highest-Salary/) | |
+| | | | | |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [solution](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/) | [MySQL](0181-Employees-Earning-More-Than-Their-Managers/) | |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [solution](https://leetcode.com/problems/duplicate-emails/solution/) | [MySQL](0182-Duplicate-Emails/) | |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [solution](https://leetcode.com/problems/customers-who-never-order/solution/) | [MySQL](0183-Customers-Who-Never-Order/) | |
+| | | | | |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [solution](https://leetcode.com/problems/find-customer-referee/solution/) | [MySQL](0584-Find-Customer-Referee/) | |
+| | | | | |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [solution](https://leetcode.com/problems/big-countries/solution/) | [MySQL](0595-Big-Countries/) | |
+| | | | | |
+| 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) | |
+| | | | | |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [无] | [MySQL](1757-Recyclable-and-Low-Fat-Products/) | |
+| | | | | |
+| 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | [无] | [MySQL](1873-Calculate-Special-Bonus/) | SELECT CASE 或者 SELECT IF 的使用|
+| | | | | |
