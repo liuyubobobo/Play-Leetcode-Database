@@ -19,8 +19,19 @@ WHERE referee_id != 2 OR referee_id IS NULL
 
 ## Using IFNULL
 
-```
+```MySQL
 SELECT name 
 FROM Customer 
 WHERE IFNULL(referee_id, -1) != 2
+```
+
+<br/>
+
+## Nested Queries
+
+```MySQL
+SELECT name 
+FROM Customer 
+WHERE id NOT IN
+(SELECT id FROM Customer WHERE referee_id = 2)
 ```
