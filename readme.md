@@ -53,7 +53,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [solution](https://leetcode.com/problems/duplicate-emails/solution/) | [MySQL](0182-Duplicate-Emails/) | |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [solution](https://leetcode.com/problems/customers-who-never-order/solution/) | [MySQL](0183-Customers-Who-Never-Order/) | |
 | | | | | |
-| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [solution](https://leetcode.com/problems/find-customer-referee/solution/) | [MySQL](0584-Find-Customer-Referee/) | |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [solution](https://leetcode.com/problems/find-customer-referee/solution/) | [MySQL](0584-Find-Customer-Referee/) | IFNULL |
 | | | | | |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [solution](https://leetcode.com/problems/big-countries/solution/) | [MySQL](0595-Big-Countries/) | |
 | | | | | |
