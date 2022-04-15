@@ -4,6 +4,8 @@ Author : liuyubobobo
 Time   : 2021-12-29
 ```
 
+<br/>
+
 ## Using LEFT JOIN
 
 ```MySQL
