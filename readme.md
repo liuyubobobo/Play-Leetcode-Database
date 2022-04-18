@@ -59,6 +59,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [solution](https://leetcode.com/problems/big-countries/solution/) | [MySQL](0595-Big-Countries/) | |
 | | | | | |
+| 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | [solution](https://leetcode.com/problems/tree-node/solution/) | [MySQL](0608-Tree-Node/) | IF or CASE |
+| | | | | |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [solution](https://leetcode.com/problems/swap-salary/solution/) | [MySQL](0627-Swap-Salary/) | IF or CASE |
 | | | | | |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) | |
