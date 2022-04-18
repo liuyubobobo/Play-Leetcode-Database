@@ -71,6 +71,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [无] | [MySQL](1757-Recyclable-and-Low-Fat-Products/) | |
 | | | | | |
+| 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [无] | [MySQL](1795-Rearrange-Products-Table/) | |
+| | | | | |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | [无] | [MySQL](1873-Calculate-Special-Bonus/) | SELECT CASE 或者 SELECT IF 的使用|
 | | | | | |
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [无] | [MySQL](1965-Employees-With-Missing-Information/) | |
