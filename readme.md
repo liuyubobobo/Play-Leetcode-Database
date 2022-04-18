@@ -73,3 +73,5 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | [无] | [MySQL](1873-Calculate-Special-Bonus/) | SELECT CASE 或者 SELECT IF 的使用|
 | | | | | |
+| 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [无] | [MySQL](1965-Employees-With-Missing-Information/) | |
+| | | | | |
