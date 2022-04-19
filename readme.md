@@ -69,6 +69,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [无] | [MySQL](1527-Patients-With-a-Condition/) | |
 | | | | | |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [无] | [C++](1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/) | |
+| | | | | |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [无] | [MySQL](1667-Fix-Names-in-a-Table/) | UPPER, LOWER, SUBSTRING, CONCAT |
 | | | | | |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [无] | [MySQL](1757-Recyclable-and-Low-Fat-Products/) | |
