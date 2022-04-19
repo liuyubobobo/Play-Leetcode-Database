@@ -60,6 +60,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [solution](https://leetcode.com/problems/big-countries/solution/) | [MySQL](0595-Big-Countries/) | |
 | | | | | |
+| 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [solution](https://leetcode.com/problems/sales-person/solution/) | [MySQL](0607-Sales-Person/) | |
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | [solution](https://leetcode.com/problems/tree-node/solution/) | [MySQL](0608-Tree-Node/) | IF or CASE |
 | | | | | |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [solution](https://leetcode.com/problems/swap-salary/solution/) | [MySQL](0627-Swap-Salary/) | IF or CASE |
