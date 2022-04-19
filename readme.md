@@ -63,6 +63,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [solution](https://leetcode.com/problems/swap-salary/solution/) | [MySQL](0627-Swap-Salary/) | IF or CASE |
 | | | | | |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [无] | [C++](1148-Article-Views-I/) | |
+| | | | | |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) | |
 | | | | | |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [无] | [MySQL](1484-Group-Sold-Products-By-The-Date/) | GROUP_CONCAT |
