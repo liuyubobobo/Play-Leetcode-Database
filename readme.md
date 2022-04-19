@@ -54,6 +54,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [solution](https://leetcode.com/problems/customers-who-never-order/solution/) | [MySQL](0183-Customers-Who-Never-Order/) | |
 | | | | | |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [solution](https://leetcode.com/problems/delete-duplicate-emails/solution/) | [MySQL](0196-Delete-Duplicate-Emails/) | DELETE FROM SELF JOIN Table |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [solution](https://leetcode.com/problems/rising-temperature/solution/) | [MySQL](0197-Rising-Temperature/) | DATE_SUB or DATEDIFF |
 | | | | | |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [solution](https://leetcode.com/problems/find-customer-referee/solution/) | [MySQL](0584-Find-Customer-Referee/) | IFNULL |
 | | | | | |
