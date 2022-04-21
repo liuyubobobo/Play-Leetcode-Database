@@ -79,6 +79,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [无] | [MySQL](1667-Fix-Names-in-a-Table/) | UPPER, LOWER, SUBSTRING, CONCAT |
 | | | | | |
+| 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [无] | [MySQL](1693-Daily-Leads-and-Partners/) | |
+| | | | | |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [无] | [MySQL](1757-Recyclable-and-Low-Fat-Products/) | |
 | | | | | |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [无] | [MySQL](1795-Rearrange-Products-Table/) | |
