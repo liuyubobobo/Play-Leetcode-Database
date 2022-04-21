@@ -81,6 +81,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [无] | [MySQL](1693-Daily-Leads-and-Partners/) | |
 | | | | | |
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [无] | [MySQL](1729-Find-Followers-Count/) | |
+| | | | | |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [无] | [MySQL](1757-Recyclable-and-Low-Fat-Products/) | |
 | | | | | |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [无] | [MySQL](1795-Rearrange-Products-Table/) | |
