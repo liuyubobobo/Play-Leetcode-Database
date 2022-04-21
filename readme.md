@@ -56,6 +56,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [solution](https://leetcode.com/problems/delete-duplicate-emails/solution/) | [MySQL](0196-Delete-Duplicate-Emails/) | DELETE FROM SELF JOIN Table |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [solution](https://leetcode.com/problems/rising-temperature/solution/) | [MySQL](0197-Rising-Temperature/) | DATE_SUB or DATEDIFF |
 | | | | | |
+| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [无] | [MySQL](0511-Game-Play-Analysis-I/) | |
+| | | | | |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [solution](https://leetcode.com/problems/find-customer-referee/solution/) | [MySQL](0584-Find-Customer-Referee/) | IFNULL |
 | | | | | |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [solution](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/solution/) | [MySQL](0586-Customer-Placing-the-Largest-Number-of-Orders/) | ORDER BY and LIMIT 1 to get max/min value|
