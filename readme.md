@@ -73,7 +73,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [无] | [MySQL](1148-Article-Views-I/) | |
 | | | | | |
-| 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [无] | [MySQL](1158-Market-Analysis-I/) | |
+| 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [无] | [MySQL](1158-Market-Analysis-I/) | The diff between WHERE and AND in LEFT JOIN |
 | | | | | |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) | |
 | | | | | |

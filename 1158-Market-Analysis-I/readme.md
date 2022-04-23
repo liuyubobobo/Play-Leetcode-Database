@@ -19,4 +19,14 @@ Pay attention to the difference between WHERE and AND for filtering when using L
 
 <br/>
 
+## Using Nested Subqueries
 
+```MySQL
+SELECT user_id AS buyer_id, join_date, 
+(
+    SELECT COUNT(item_id) 
+    FROM Orders 
+    WHERE Orders.buyer_id = Users.user_id AND YEAR(order_date) = 2019
+) AS orders_in_2019
+FROM Users
+```
