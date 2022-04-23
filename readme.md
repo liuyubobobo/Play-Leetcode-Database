@@ -69,9 +69,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [solution](https://leetcode.com/problems/swap-salary/solution/) | [MySQL](0627-Swap-Salary/) | IF or CASE |
 | | | | | |
-| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [无] | [C++](1141-User-Activity-for-the-Past-30-Days-I/) | |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [无] | [MySQL](1141-User-Activity-for-the-Past-30-Days-I/) | |
 | | | | | |
-| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [无] | [C++](1148-Article-Views-I/) | |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [无] | [MySQL](1148-Article-Views-I/) | |
+| | | | | |
+| 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [无] | [MySQL](1158-Market-Analysis-I/) | |
 | | | | | |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) | |
 | | | | | |
@@ -83,7 +85,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [无] | [MySQL](1527-Patients-With-a-Condition/) | |
 | | | | | |
-| 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [无] | [C++](1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/) | |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [无] | [MySQL](1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/) | |
 | | | | | |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [无] | [MySQL](1667-Fix-Names-in-a-Table/) | UPPER, LOWER, SUBSTRING, CONCAT |
 | | | | | |
