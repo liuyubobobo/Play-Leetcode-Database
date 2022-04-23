@@ -75,6 +75,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) | |
 | | | | | |
+| 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [无] | [MySQL](1393-Capital-Gain-Loss/) | |
+| | | | | |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [无] | [MySQL](1484-Group-Sold-Products-By-The-Date/) | GROUP_CONCAT |
 | | | | | |
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [无] | [MySQL](1527-Patients-With-a-Condition/) | |
