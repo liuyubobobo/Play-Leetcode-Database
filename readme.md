@@ -71,6 +71,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [无] | [MySQL](1050-Actors-and-Directors-Who-Cooperated-At-Least-Three-Times/) | |
 | | | | | |
+| 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [无] | [MySQL](1084-Sales-Analysis-III/) | |
+| | | | | |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [无] | [MySQL](1141-User-Activity-for-the-Past-30-Days-I/) | |
 | | | | | |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [无] | [MySQL](1148-Article-Views-I/) | |
@@ -89,7 +91,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [无] | [MySQL](1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/) | |
 | | | | | |
-| 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [无] | [MySQL](1587-Bank-Account-Summary-II/) | |
+| 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [无] | [MySQL](1587-Bank-Account-Summary-II/) | JOIN (NOT LEFT JOIN) |
 | | | | | |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [无] | [MySQL](1667-Fix-Names-in-a-Table/) | UPPER, LOWER, SUBSTRING, CONCAT |
 | | | | | |
