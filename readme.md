@@ -89,6 +89,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [无] | [MySQL](1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/) | |
 | | | | | |
+| 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [无] | [MySQL](1587-Bank-Account-Summary-II/) | |
+| | | | | |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [无] | [MySQL](1667-Fix-Names-in-a-Table/) | UPPER, LOWER, SUBSTRING, CONCAT |
 | | | | | |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [无] | [MySQL](1693-Daily-Leads-and-Partners/) | |
