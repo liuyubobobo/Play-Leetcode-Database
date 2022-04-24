@@ -97,6 +97,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [无] | [MySQL](1693-Daily-Leads-and-Partners/) | |
 | | | | | |
+| 1699 | [Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/) | [无] | [MySQL](1699-Number-of-Calls-Between-Two-Persons/) | |
+| | | | | |
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [无] | [MySQL](1729-Find-Followers-Count/) | |
 | | | | | |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [无] | [MySQL](1741-Find-Total-Time-Spent-by-Each-Employee/) | |
