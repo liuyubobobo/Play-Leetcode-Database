@@ -79,6 +79,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [无] | [MySQL](1158-Market-Analysis-I/) | The diff between WHERE and AND in LEFT JOIN |
 | | | | | |
+| 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/) | [无] | [MySQL](1173-Immediate-Food-Delivery-I/) | |
+| | | | | |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [无] | [MySQL](1251-Average-Selling-Price/) | |
 | | | | | |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) | |
