@@ -87,6 +87,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [无] | [MySQL](1407-Top-Travellers/) | |
 | | | | | |
+| 1445 | [Apples & Oranges](https://leetcode.com/problems/apples-oranges/) | [无] | [MySQL](1445-Apples-Oranges/) | |
+| | | | | |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [无] | [MySQL](1484-Group-Sold-Products-By-The-Date/) | GROUP_CONCAT |
 | | | | | |
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [无] | [MySQL](1527-Patients-With-a-Condition/) | |
