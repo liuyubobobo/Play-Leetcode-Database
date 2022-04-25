@@ -73,6 +73,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [无] | [MySQL](1084-Sales-Analysis-III/) | |
 | | | | | |
+| | | | | |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [无] | [MySQL](1141-User-Activity-for-the-Past-30-Days-I/) | |
 | | | | | |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [无] | [MySQL](1148-Article-Views-I/) | |
@@ -80,6 +81,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [无] | [MySQL](1158-Market-Analysis-I/) | The diff between WHERE and AND in LEFT JOIN |
 | | | | | |
 | 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/) | [无] | [MySQL](1173-Immediate-Food-Delivery-I/) | |
+| | | | | |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [无] | [MySQL](1211-Queries-Quality-and-Percentage/)| |
 | | | | | |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [无] | [MySQL](1251-Average-Selling-Price/) | |
 | | | | | |
