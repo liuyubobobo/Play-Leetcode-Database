@@ -91,6 +91,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [无] | [MySQL](1527-Patients-With-a-Condition/) | |
 | | | | | |
+| 1571 | [Warehouse Manager](https://leetcode.com/problems/warehouse-manager/) | [无] | [MySQL](1571-Warehouse-Manager/) | |
+| | | | | |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [无] | [MySQL](1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/) | |
 | | | | | |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [无] | [MySQL](1587-Bank-Account-Summary-II/) | JOIN (NOT LEFT JOIN) |
