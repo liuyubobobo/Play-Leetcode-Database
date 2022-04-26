@@ -93,6 +93,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [无] | [MySQL](1393-Capital-Gain-Loss/) | |
 | | | | | |
+| 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | [无] | [MySQL](1398-Customers-Who-Bought-Products-A-and-B-but-Not-C/) | |
+| | | | | |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [无] | [MySQL](1407-Top-Travellers/) | |
 | | | | | |
 | 1445 | [Apples & Oranges](https://leetcode.com/problems/apples-oranges/) | [无] | [MySQL](1445-Apples-Oranges/) | |
