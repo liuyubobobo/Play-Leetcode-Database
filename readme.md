@@ -67,6 +67,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [solution](https://leetcode.com/problems/sales-person/solution/) | [MySQL](0607-Sales-Person/) | |
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | [solution](https://leetcode.com/problems/tree-node/solution/) | [MySQL](0608-Tree-Node/) | IF or CASE |
 | | | | | |
+| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [solution](https://leetcode.com/problems/biggest-single-number/solution/) | [MySQL](0619-Biggest-Single-Number/) | |
+| | | | | |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [solution](https://leetcode.com/problems/swap-salary/solution/) | [MySQL](0627-Swap-Salary/) | IF or CASE |
 | | | | | |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [无] | [MySQL](1050-Actors-and-Directors-Who-Cooperated-At-Least-Three-Times/) | |
