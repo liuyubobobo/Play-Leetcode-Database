@@ -75,6 +75,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [无] | [MySQL](1084-Sales-Analysis-III/) | |
 | | | | | |
+| 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | [无] | [MySQL](1112-Highest-Grade-For-Each-Student/) | |
 | | | | | |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [无] | [MySQL](1141-User-Activity-for-the-Past-30-Days-I/) | |
 | | | | | |
