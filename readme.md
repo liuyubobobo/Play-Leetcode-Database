@@ -97,6 +97,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [无] | [MySQL](1407-Top-Travellers/) | |
 | | | | | |
+| 1440 | [Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/) | [无] | [MySQL](1440-Evaluate-Boolean-Expression/) | JOIN 3 Tables |
+| | | | | |
 | 1445 | [Apples & Oranges](https://leetcode.com/problems/apples-oranges/) | [无] | [MySQL](1445-Apples-Oranges/) | |
 | | | | | |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [无] | [MySQL](1484-Group-Sold-Products-By-The-Date/) | GROUP_CONCAT |
