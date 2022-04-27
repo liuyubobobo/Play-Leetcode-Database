@@ -89,6 +89,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [无] | [MySQL](1251-Average-Selling-Price/) | |
 | | | | | |
+| 1264 | [Page Recommendations](https://leetcode.com/problems/page-recommendations/) | [无] | [MySQL](1264-Page-Recommendations/) | |
+| | | | | |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) | |
 | | | | | |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [无] | [MySQL](1393-Capital-Gain-Loss/) | |
