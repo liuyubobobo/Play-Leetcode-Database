@@ -58,6 +58,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [无] | [MySQL](0511-Game-Play-Analysis-I/) | |
 | | | | | |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [solution](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/solution/) | [MySQL](0570-Managers-with-at-Least-5-Direct-Reports/) | |
+| | | | | |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [solution](https://leetcode.com/problems/find-customer-referee/solution/) | [MySQL](0584-Find-Customer-Referee/) | IFNULL |
 | | | | | |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [solution](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/solution/) | [MySQL](0586-Customer-Placing-the-Largest-Number-of-Orders/) | ORDER BY and LIMIT 1 to get max/min value|
