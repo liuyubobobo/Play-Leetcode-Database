@@ -93,6 +93,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | |
 | 1264 | [Page Recommendations](https://leetcode.com/problems/page-recommendations/) | [无] | [MySQL](1264-Page-Recommendations/) | |
 | | | | | |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | [无] | [MySQL](1280-Students-and-Examinations/) | |
+| | | | | |
 | 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | [无] | [MySQL](1303-Find-the-Team-Size/) | |
 | | | | | |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [无] | [MySQL](1350-Students-With-Invalid-Departments/) | |
