@@ -52,6 +52,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [solution](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/) | [MySQL](0181-Employees-Earning-More-Than-Their-Managers/) | |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [solution](https://leetcode.com/problems/duplicate-emails/solution/) | [MySQL](0182-Duplicate-Emails/) | |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [solution](https://leetcode.com/problems/customers-who-never-order/solution/) | [MySQL](0183-Customers-Who-Never-Order/) | |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [solution](https://leetcode.com/problems/department-highest-salary/solution/) | [MySQL](0184-Department-Highest-Salary/) | |
 | | | | | |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [solution](https://leetcode.com/problems/delete-duplicate-emails/solution/) | [MySQL](0196-Delete-Duplicate-Emails/) | DELETE FROM SELF JOIN Table |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [solution](https://leetcode.com/problems/rising-temperature/solution/) | [MySQL](0197-Rising-Temperature/) | DATE_SUB or DATEDIFF |
